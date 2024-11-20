@@ -2,8 +2,8 @@
 const roles = ["Ict Student", "Grade 11", "Harvey",];
 let roleIndex = 0; // Index for roles
 const images = [
-    "C:/Users/Teacher/Documents/Tech Portfolio/Asset/Image/𝚊𝚛𝚝𝚜𝚢 • 𝙰𝚒 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚎𝚍.jpg",
-    "C:/Users/Teacher/Documents/Tech Portfolio/Asset/Image/1716200802275_1.jpg"
+    "Asset/Image/𝚊𝚛𝚝𝚜𝚢 • 𝙰𝚒 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚎𝚍.jpg",
+    "Asset/Image/1716200802275_1.jpg"
 ];
 
 const profileImage = document.getElementById("dynamic-image"); // Ensure this matches your HTML element
